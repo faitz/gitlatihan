@@ -1,7 +1,10 @@
 stash 1 files
 
 
+
 fixing bug
 =======
 perubahan datang yang 1 prioritas rendah
+
+ini perubahan kedua
 
